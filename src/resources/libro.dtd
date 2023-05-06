@@ -1,0 +1,17 @@
+ <!ELEMENT bib (portada,libro+)>
+        <!ELEMENT portada (#PCDATA)>
+        <!ATTLIST bib nombre CDATA #IMPLIED>
+        <!ATTLIST bib centro CDATA #IMPLIED>
+        <!ELEMENT libro (titulo, autor+, editorial, precio)+>
+        <!ELEMENT titulo (#PCDATA)>
+        <!ELEMENT editorial (#PCDATA)>
+        <!ELEMENT precio (#PCDATA)>
+        <!ATTLIST libro anyo CDATA #IMPLIED>
+
+        <!ELEMENT autor (apellido, nombre)>
+        <!ATTLIST autor foto CDATA #IMPLIED>
+        <!ATTLIST autor documento CDATA #IMPLIED>
+        <!ELEMENT apellido (#PCDATA)>
+        <!ELEMENT nombre (#PCDATA)>
+
+

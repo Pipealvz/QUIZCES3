@@ -1,0 +1,52 @@
+<!DOCTYPE bib SYSTEM "libro.dtd">
+
+<bib nombre="Tomás Carrasquilla" centro="poblado">
+    <portada>https://scontent.feoh3-1.fna.fbcdn.net/v/t39.30808-6/301153716_452836323563
+        323_5646586074448291472_n.jpg?_nc_cat=109ccb=1-7_nc_sid=e3f864_n
+        c_ohc=NJclP7e_OQQAX_2m_XS_nc_ht=scontent.feoh3-1.fnaoh=00_AfDDK
+        2o_SMQOTDtW7eyKc9Q37ymhK47EY01IVu272zTZcgoe=63697818</portada>
+    <libro anyo="1994">
+        <titulo>TCP/IP Illustrated</titulo>
+        <autor documento="2" foto="https://crearmiempresa.es/wp-content/uploads/2015/07/frases-de-steve-jobs.jpg">
+            <apellido>stevens</apellido>
+            <nombre>W.</nombre>
+        </autor>
+        <editorial>Addison-Wesley</editorial>
+        <precio>65.95</precio>
+    </libro>
+    <libro anyo="1992">
+        <titulo>Advanced Programming for Unix environment</titulo>
+        <autor documento="2">
+            <apellido>stevens</apellido>
+            <nombre>W.</nombre>
+        </autor>
+        <editorial>Addison-Wesley</editorial>
+        <precio>65.95</precio>
+    </libro>
+    <libro anyo="2000">
+        <titulo>Data on the Web</titulo>
+        <autor documento="4">
+            <apellido>abiteboul</apellido>
+            <nombre>Serge</nombre>
+        </autor>
+        <autor documento="5">
+            <apellido>buneman</apellido>
+            <nombre>Peter</nombre>
+        </autor>
+        <autor documento="6">
+            <apellido>suciu</apellido>
+            <nombre>Dan</nombre>
+        </autor>
+        <editorial>Morgan Kaufmann editorials</editorial>
+        <precio>39.95</precio>
+    </libro>
+    <libro anyo="1999">
+        <titulo>Economics of Technology for Digital TV</titulo>
+        <autor documento="8">
+            <apellido>gerbarg</apellido>
+            <nombre>Darcy</nombre>
+        </autor>
+        <editorial>Kluwer Academic editorials</editorial>
+        <precio>129.95</precio>
+    </libro>
+</bib>
